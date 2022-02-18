@@ -1,0 +1,13 @@
+body{
+    text-align:right; 
+    background-image: url("https://img.wallpapersafari.com/desktop/800/450/43/84/EWkGp7.jpg");
+}
+.chat_div
+{
+	background: rgba(255,255,255,0.8);
+	float: none;
+	border-radius: 15px;
+    width:400px;
+    height: 200px;
+	
+}
